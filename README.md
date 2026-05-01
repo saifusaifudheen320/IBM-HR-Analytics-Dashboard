@@ -43,8 +43,11 @@ IBM HR Employee Attrition Dataset — available on Kaggle
 1,470 rows | 35 columns
 
 ## Screenshots
+### Page 1 — Executive Overview
 <img width="1365" height="770" alt="Screenshot 2026-05-01 103135" src="https://github.com/user-attachments/assets/58200eed-220c-4d58-b4e1-6eb791bea88c" />
+### Page 2 — Attrition Deep Dive
 <img width="1362" height="758" alt="Screenshot 2026-05-01 102251" src="https://github.com/user-attachments/assets/d6969edc-3cbc-4518-ade5-6cb7dfbb8b4a" />
+### Page 3 — Compensation & Satisfaction
 <img width="1350" height="759" alt="Screenshot 2026-05-01 103205" src="https://github.com/user-attachments/assets/efe00ea3-204e-4905-a67b-30ce0f745b42" />
 
 
